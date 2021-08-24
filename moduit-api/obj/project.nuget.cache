@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHnnpmKztmnqSchb8kGJZgpr2/5uCod4zQlYtUyWQECShbFpI015CjUwGQQSshLhZnfX08PSVtze/WV7re0fqg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\mas\\Documents\\Workspace\\Other\\tes\\moduit-api\\moduit-api\\moduit-api\\moduit-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
